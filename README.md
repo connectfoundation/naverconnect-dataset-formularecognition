@@ -1,4 +1,5 @@
-# naverconnect-dataset-formularecognition# 수학수식 OCR 데이터셋
+# naverconnect-dataset-formularecognition
+# 수학수식 OCR 데이터셋
 
 ## Overview
 해당 데이터셋은 인쇄물과 손글씨 수식 데이터를 기반으로 하여 만들어졌습니다. 
